@@ -12,5 +12,15 @@ This repository contains the following Codeforces problems' solutions:
 #You can run the notebooks on Google Colab by following the links.
 
 
+These videos are recommended for learning algorithms:
+
+
+| Number        | Name                             | Description                                                   |  Lanuage         |  Reference       | 
+| ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
+|  1            |      Video by Vadim Kiselev            |  Vadim Kiselev solves codeforces problems           | Russian          | [Video by Vadim Kiselev ](https://www.youtube.com/watch?v=Aa4Jpy_6mGo&list=PLKtj_siO3WMvFMB_MiN_GgoOY2g7w429O&index=1)
+
+
+Для просмотра информации на русском языке зайдите в папку /notes_in_rus/
+
  #Codeforces #problems
 
