@@ -12,7 +12,7 @@ This repository contains the following Codeforces problems' solutions:
 #You can run the notebooks on Google Colab by following the links.
 
 
-These videos are recommended for learning algorithms:
+These videos are recommended for Codeforces problems understanding:
 
 
 | Number        | Name                             | Description                                                   |  Lanuage         |  Reference       | 
